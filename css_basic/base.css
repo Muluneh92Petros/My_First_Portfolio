@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Title</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+        <h1>Your Name</h1>
+        <p>Your brief tagline or professional statement goes here.</p>
+    </header>
+    <main>
+     <nav>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <header>
+        <h1>Your Header</h1>
+        <!-- Other header content -->
+    </header>
+    <main>
+<article>
+        <h2>Your Article Title</h2>
+        <p>Your article content goes here.</p>
+    <!-- Other content of your article -->
 
+    <div class="learners-table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Country</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>John</td>
+                    <td>25</td>
+                    <td>USA</td>
+                </tr>
+                <tr>
+                    <td>Emily</td>
+                    <td>28</td>
+                    <td>Canada</td>
+                </tr>
+                <tr>
+                    <td>Michael</td>
+                    <td>32</td>
+                    <td>Australia</td>
+                </tr>
+                <tr>
+                    <td>Sophia</td>
+                    <td>21</td>
+                    <td>UK</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</article>
+     <aside>
+            <!-- placeholder to add comment thread later -->
+        </aside>
+    </main>
+    <footer>
+       <p>Made by Your Name - <a href="your-link" target="_blank">Your Link</a></p>
+    </footer>
+</body>
+</html>
